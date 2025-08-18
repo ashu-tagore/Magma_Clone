@@ -19,13 +19,15 @@ Experience the clone here: [Magma Clone Live Demo](https://magma-clone-sigma.ver
   - Interactive circles with GSAP animations
 - **Responsive Design**: Works across desktop and mobile devices
 
-## 🛠 Tech Stack
+## 🛠 Technologies Used
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![LocomotiveScroll](https://img.shields.io/badge/LocomotiveScroll-000000?style=for-the-badge)
+- **HTML5**: Structure and semantic markup of the website
+- **CSS3**: Styling, layouts, and basic animations
+- **JavaScript**: Core interactivity and dynamic content
+- **GSAP (GreenSock Animation Platform)**: Advanced scroll-triggered animations and timeline controls
+- **Locomotive Scroll**: Smooth scrolling behavior and scroll position detection
+- **Canvas API**: For rendering and animating image sequences
+- **RemixIcon**: For UI icons and visual elements
 
 ## 🏗️ Project Structure
 
