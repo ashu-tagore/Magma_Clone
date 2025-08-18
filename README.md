@@ -1,4 +1,4 @@
-Here's your updated README.md with the new Vercel link:
+Here's the markdown code for your README.md file:
 
 ```markdown
 # 🌋 Magma Website Clone
