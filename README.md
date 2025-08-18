@@ -1,6 +1,3 @@
-Here's the markdown code for your README.md file:
-
-```markdown
 # 🌋 Magma Website Clone
 
 A responsive clone of the Magma real estate platform website featuring smooth scroll animations, canvas-based image sequences, and interactive Web3 elements.
@@ -77,4 +74,3 @@ start index.html
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 Built with ❤️ by [Ashu Tagore](https://github.com/ashu-tagore)
-```
